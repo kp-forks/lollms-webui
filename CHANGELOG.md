@@ -65,6 +65,10 @@ Happy April Fool's Day! While we did genuinely rework the settings page structur
 # LoLLMs v19.0 (alpha) Changelog
 *Date: March 06, 2025*
 
+## [2026-01-24 00:37]
+
+- chore(personalities_zoo): update submodule reference
+
 ## Core Settings Enhancements
 - **Revamped Main Settings Structure**: The primary settings interface has been reorganized to improve usability and maintainability, providing streamlined access to essential configuration options.
 
